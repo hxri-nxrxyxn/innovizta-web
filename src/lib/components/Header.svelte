@@ -23,7 +23,7 @@
 	</div>
 	<div class="flex items-center justify-center gap-6 text-sm text-slate-300">
 		<a
-			href="mailto:support@innoviztatechnologies.com"
+			href="tel:+919656996744"
 			class="flex items-center gap-2 rounded-full bg-slate-800 px-3 py-2 text-xs font-medium text-slate-300 ring-1 ring-slate-500 transition-all duration-500 hover:bg-slate-700/70 sm:text-sm"
 			><Icon icon="ph:paper-plane-tilt-fill" width={20} /> Contact Us</a
 		>
